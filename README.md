@@ -63,10 +63,11 @@ This app is a perfect mini-project to understand:
 - Launching external apps from your own Android app!
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/de7b892e-4f7c-47de-96aa-7c35872e6855" alt="My App Screenshot" width="250" height="400">
-<img src="https://github.com/user-attachments/assets/91229388-6f1c-4c94-81d0-cb3b8547c451" alt="My App Screenshot" width="250" height="400">
-<img src="https://github.com/user-attachments/assets/f1cddf07-8b49-4b88-9290-2989b125451d" alt="My App Screenshot" width="250" height="400">
-<img src="https://github.com/user-attachments/assets/4f50defc-6fd1-4a51-ab47-1463c2f403d9" alt="My App Screenshot" width="250" height="400">
+<img src="https://github.com/user-attachments/assets/2b5527e7-1c78-44cf-9b02-b9941849a220" alt="App Screenshot" width="400" height="700">
+<img src="https://github.com/user-attachments/assets/7cfacff8-6cfb-40ba-b704-69af596ce9ea" alt="App Screenshot 3" width="400" height="700">
+<img src="https://github.com/user-attachments/assets/c821cdc9-d9a6-41a7-ac7f-d4642b690ea7" alt="App Screenshot 4" width="400" height="700">
+<img src="https://github.com/user-attachments/assets/f2aa63f0-088d-4ac0-8baf-6fbe2f7b73e3" alt="App Screenshot 5" width="400" height="700">
+<img src="https://github.com/user-attachments/assets/f626c58f-8d7d-4ecb-b028-f8dabb9352d4" alt="WebsiteOpenerApp Screenshot" width="400" height="700">
 
 
 
